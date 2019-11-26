@@ -29,8 +29,10 @@ pip3 install tqdm
 ### 项目使用说明
 1. 在项目文件根目录运行```python3 main.py```
 2. 选择并输入需要生成的类型数字```1， 2， 3```
+![Xnip2019-11-26_15-33-18.jpg](http://pic-1255729225.cos.ap-shanghai.myqcloud.com/2019/11/27/e6d720fc4adb0.jpg)
 3. 等待程序运行进度，当程序运行结束会提示```./best_result.xlsx文件生成完成```
 4. 在项目文件根目录查看生成的excel表格文件
+![Xnip2019-11-26_15-32-50.jpg](http://pic-1255729225.cos.ap-shanghai.myqcloud.com/2019/11/27/a1e9480c97534.jpg)
 
 ### 后续站点更新
 考虑到地铁线路的站点会不断更新，本项目提供扩展功能

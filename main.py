@@ -180,7 +180,7 @@ if __name__ == '__main__':
     originSubway = buildSubway(subway_lines)
     revisedSubway = updateSubway(originSubway)
 
-    input_val = input('请输入需要生成的路径类型（提示：输入1，2，3数字）：[1]最佳路径（在[2]和【3】之间择优选择）, [2]站点间隔最短， [3]换乘线路最少\n')
+    input_val = input('请输入需要生成的路径类型（提示：输入1，2，3数字）：[1]最佳路径（在[2]和[3]之间择优选择）, [2]站点间隔最短， [3]换乘线路最少\n')
 
     if input_val == "1":
         main(subway_lines, "best")
