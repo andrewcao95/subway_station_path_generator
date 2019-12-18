@@ -108,7 +108,7 @@ def generate_summary_result(type):
         stations.append(subway_lines[item])
     stations = list(chain.from_iterable(stations))
 
-    stations = stations[:50] # for test
+    # stations = stations[:50] # for test
 
     book = openpyxl.Workbook()
     if type == "best":
