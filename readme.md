@@ -1,5 +1,4 @@
 ## 北京地铁线路路径规划生成器
-作者: @andrewcao95
 
 ### 项目简介
 本项目基于北京地铁数据集，实现了地铁站点线路的路径规划，并将站点间隔、换乘次数生成二维矩阵excel表格。支持：
@@ -37,8 +36,7 @@ pip3 install tqdm
 
 ![](https://pic-1255729225.cos.ap-shanghai.myqcloud.com/2019/12/18/15766526093098.jpg)
 
-
-![Xnip2019-11-26_15-32-50.jpg](http://pic-1255729225.cos.ap-shanghai.myqcloud.com/2019/11/27/a1e9480c97534.jpg)
+![](http://pic-1255729225.cos.ap-shanghai.myqcloud.com/2019/11/27/a1e9480c97534.jpg)
 
 ### 后续站点更新
 考虑到地铁线路的站点会不断更新，本项目提供扩展功能
